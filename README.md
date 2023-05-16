@@ -2,4 +2,4 @@
 - 👀 I’m interested in  front end e back ende
 - 🌱 I’m currently learning  HTML, JavaScript, CSS, React
 - 📫 How to reach me  @balieiro_daniel, balieiro_d@hotmail.com
-- 🤓 studying in @aluraonline
+- 🤓 studying in @aluraonline and @oneBitcode
