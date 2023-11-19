@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Baliieiro
-- 👀 I’m interested in  front end e back ende
+- 👀 I’m interested in  front end 
 - 🌱 I’m currently learning  HTML, JavaScript, CSS, React
 - 📫 How to reach me  @balieiro_daniel, balieiro_d@hotmail.com
-- 🤓 studying in @aluraonline and @oneBitcode
